@@ -41,7 +41,7 @@ pos-inventory-management-system/
         ├── ProductController.java  # Business logic for inventory operations
         └── TransactionController.java # Business logic for checkout and sales
 ```
-##🛠️ Tech Stack & Prerequisites
+## 🛠️ Tech Stack & Prerequisites
 
 Language: Java (JDK 8 or higher)
 
